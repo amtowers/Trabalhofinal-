@@ -2,58 +2,59 @@
 title: "**O Supremo exerce o seu papel contramajoritário nas ações sobre a Covid-19? Uma análise preliminar das ações de controle direto de constitucionalidade**"
 author: "Adelmar de Miranda Torres - 19/0072334"
 date: "17/12/2020"
-output: html_document
-fontesize: 14pt
+output: 
+  html_document
+  
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## I - INTRODUÇÃO
+## **I - INTRODUÇÃO**
 
+<p style="font-size:18pt">
 As pesquisas acadêmicas sobre o Poder Judiciário vêm evidenciando cada vez mais a interferência desse poder na elaboração de políticas públicas. Com efeito, isso significa tratar o Judiciário como instituição política e não como jurisdição.
-
 Essa tensão entre Direito e Política e, portanto, entre os poderes legiferantes e jurisdicional é solucionado pela modernidade por meio do constitucionalismo. De fato, a Constituição acaba por criar uma relação entre o Direito, entendido como como convergência de expectativas normativas (procedimentalização), e a Política, compreendido como vetor de legitimação e autoridade legiferante.
+</p>
 
+<p style="font-size:18pt">
 Nesse sentido, o constitucionalismo também é uma forma de governo, legitimado por regras pré-estabelecidas. Com efeito, ele organiza o Direito (supremacia jurídica), permitindo uma relação entre Direito e Política que soluciona o paradoxo da soberania popular ao distinguir regras procedimentais (Direito) e soberania coletiva (Política). Assim, o constitucionalismo procura estabelecer, de um lado, o controle do poder, e, de outro, a legitimação de processos políticos.
+A consequência fundamental do constitucionalismo é o da supremacia constitucional. A soberania popular é expressada pelo poder constituinte e, ao mesmo tempo, limitada pelo estabelecido por este, ou seja, pela Constituição. Portanto, o conceito de supremacia constitucional afirma que o exercício do poder popular está subordinado à Constituição, isto, é, deve estar em sintonia com a lei fundamental. Porém fica uma questão: Quem seria o guardião desta supremacia?</p>
+</p>
 
-A consequência fundamental do constitucionalismo é o da supremacia constitucional. A soberania popular é expressada pelo poder constituinte e, ao mesmo tempo, limitada pelo estabelecido por este, ou seja, pela Constituição. Portanto, o conceito de supremacia constitucional afirma que o exercício do poder popular está subordinado à Constituição, isto, é, deve estar em sintonia com a lei fundamental. Porém fica uma questão: Quem seria o guardião desta supremacia?
+<p style="font-size:18pt">A resposta a esse questionamento nas democracias modernas é dada pelo controle de constitucionalidade exercido, em grande parte, pelas cortes constitucionais. Nesse sentido, o Suprem Tribunal Federal (STF), no caso brasileiro, seria o guardião dessa supremacia. Mas ele seria um guardião solitário?</p>
 
-A resposta a esse questionamento nas democracias modernas é dada pelo controle de constitucionalidade exercido, em grande parte, pelas cortes constitucionais. Nesse sentido, o Suprem Tribunal Federal (STF), no caso brasileiro, seria o guardião dessa supremacia. Mas ele seria um guardião solitário?
+<p style="font-size:18pt">Entende-se que o STF não seria o protetor único da supremacia constitucional, haja vista que ele sofre constrangimentos externos no exercício desse papel. Na realidade, são vários os guardiões em função da ecologia democrática institucional, constituída e dependente do contexto, da cultura, do tempo e dos processos históricos.</p>
 
-Entende-se que o STF não seria o protetor único da supremacia constitucional, haja vista que ele sofre constrangimentos externos no exercício desse papel. Na realidade, são vários os guardiões em função da ecologia democrática institucional, constituída e dependente do contexto, da cultura, do tempo e dos processos históricos.
+<p style="font-size:18pt">De toda sorte, há um reconhecimento de que as cortes constitucionais seriam um guardião importante da supremacia constitucional, exercendo uma missão contramajoritária ao proteger minorias da “tirania” das maiorias.  Essa função legitimaria a corte como formuladora de política pública. Entretanto, as cortes como instituições políticas (com caráter jurídico), segundo Dahl, teriam dificuldades de cumprirem o papel contramajoritário diante de maiorias congressuais fortes. Para esse autor, não há como considerar os tribunais constitucionais, agindo como formulador de política públicas, fora das alianças políticas existentes que, em tese, representam as maiorias. No Brasil, assim como nas democracias modernas, há uma complexidade de conflitos que podem ser levados ao Judiciário, promovendo uma judicialização crescente da vida social, inclusive pelo maior acesso à justiça. Inexorável, portanto, a judicialização sucessiva também da política.<p/>
 
-De toda sorte, há um reconhecimento de que as cortes constitucionais seriam um guardião importante da supremacia constitucional, exercendo uma missão contramajoritária ao proteger minorias da “tirania” das maiorias.  Essa função legitimaria a corte como formuladora de política pública.  
-Entretanto, as cortes como instituições políticas (com caráter jurídico), segundo Dahl, teriam dificuldades de cumprirem o papel contramajoritário diante de maiorias congressuais fortes. Para esse autor, não há como considerar os tribunais constitucionais, agindo como formulador de política públicas, fora das alianças políticas existentes que, em tese, representam as maiorias. 
+<p style="font-size:18pt">Essa expansão da judicialização da política é favorecida pela a fragmentação do sistema político-partidário brasileiro, este classificado como sendo presidencialismo de coalizão. Características importantes desse sistema seriam: (1) resiliência do poder das elites e a predominância do interesse político sobre o cumprimento das regras constitucionais; (2) dependência do Poder Executivo de uma grande coalizão partidária, com graus irredutíveis de heterogeneidade, com vistas a garantir a governabilidade; e (3) demanda mecanismos muito ágeis de mediação institucional e resolução de conflitos entre os poderes políticos da República, sendo esses mecanismos quase inexistentes no processo legislativo e nas regras eleitorais, bem como “[...] fora do escopo do poder moderador razoável do Judiciário.”</p>
 
-No Brasil, assim como nas democracias modernas, há uma complexidade de conflitos que podem ser levados ao Judiciário, promovendo uma judicialização crescente da vida social, inclusive pelo maior acesso à justiça. Inexorável, portanto, a judicialização sucessiva também da política.
+<p style="font-size:18pt">Não se pode perder de vista que essa crescente judicialização da política traz consigo riscos consideráveis, pois cria problemas de legitimação para o sistema político, de orientação para atores políticos e de legitimação do próprio poder Judiciário. Ademais, permite o prolongamento do debate político para fora do Parlamento pelos partidos de oposição ou derrotados em sua tese por meio da judicialização das políticas públicas formuladas pelo Congresso.</p>
 
-Essa expansão da judicialização da política é favorecida pela a fragmentação do sistema político-partidário brasileiro, este classificado como sendo presidencialismo de coalizão. Características importantes desse sistema seriam: (1) resiliência do poder das elites e a predominância do interesse político sobre o cumprimento das regras constitucionais; (2) dependência do Poder Executivo de uma grande coalizão partidária, com graus irredutíveis de heterogeneidade, com vistas a garantir a governabilidade; e (3) demanda mecanismos muito ágeis de mediação institucional e resolução de conflitos entre os poderes políticos da República, sendo esses mecanismos quase inexistentes no processo legislativo e nas regras eleitorais, bem como “[...] fora do escopo do poder moderador razoável do Judiciário.”
+<p style="font-size:18pt">Contudo, esse fenômeno da judicialização da política no país parece referir-se a pouco casos examinados pelo STF, quando esta corte é colocada no centro do debate político. Tais casos geralmente estariam relacionados a interferências nos pleitos eleitorais, ao processo legislativo e àqueles de repercussão nacional.</p>
 
-Não se pode perder de vista que essa crescente judicialização da política traz consigo riscos consideráveis, pois cria problemas de legitimação para o sistema político, de orientação para atores políticos e de legitimação do próprio poder Judiciário. Ademais, permite o prolongamento do debate político para fora do Parlamento pelos partidos de oposição ou derrotados em sua tese por meio da judicialização das políticas públicas formuladas pelo Congresso.
+<p style="font-size:18pt">Embora seja considerável o número de casos levados ao STF pela oposição e por partidos derrotas em sua tese no Congresso Nacional, em face da fragmentação e heterogeneidade das coalizações partidárias, além do emprego por grupos de interesse desse mecanismo para aumentar sua visibilidade, o número de ações consideradas procedentes é reduzido.  De qualquer maneira, parece evidente que, do ponto de vista qualitativo, umas poucas decisões podem ter um impacto devastador, como por exemplo, a decisão sobre a verticalização das eleições e a sobre a reeleição dos presidentes da Câmara e do Senado.</p> 
 
-Contudo, esse fenômeno da judicialização da política no país parece referir-se a pouco casos examinados pelo STF, quando esta corte é colocada no centro do debate político. Tais casos geralmente estariam relacionados a interferências nos pleitos eleitorais, ao processo legislativo e àqueles de repercussão nacional.
+<p style="font-size:18pt">Sendo assim, é necessário especificar do que estar querendo dizer sobre o fenômeno da judicialização, para responder se há ou não judicialização da política no Brasil. No presente estudo, pretende-se examinar o fenômeno da judicialização da política a partir das ações referentes à pandemia da Covid-19 julgadas pelo STF. Com efeito, o conceito de judicialização utilizado no trabalho seria a de que o STF teria um papel contramajoritário, o que legitimaria a sua interferência no desenho e na implementação da política pública acerca da covid-19.</p>
 
-Embora seja considerável o número de casos levados ao STF pela oposição e por partidos derrotas em sua tese no Congresso Nacional, em face da fragmentação e heterogeneidade das coalizações partidárias, além do emprego por grupos de interesse desse mecanismo para aumentar sua visibilidade, o número de ações consideradas procedentes é reduzido.  De qualquer maneira, parece evidente que, do ponto de vista qualitativo, umas poucas decisões podem ter um impacto devastador, como por exemplo, a decisão sobre a verticalização das eleições e a sobre a reeleição dos presidentes da Câmara e do Senado. 
+<p style="font-size:18pt;color:blue">Nesse contexto, a pergunta que essa pesquisa procura endereçar seria: O STF assume um papel contramajoritário, ou seja, interfere na política pública traçada pelos poderes majoritários, ao decidir sobre ações referentes à Covid-19? A hipótese H0 seria a de que, tal como defendido por Mcguire (2006, p. 535), a nossa corte constitucional, diferentemente dos outros poderes da República, não seria capaz de desenvolver, monitorar e adaptar políticas públicas, confirmando a argumentação de Dahl de que elas têm dificuldades de se contrapor aos poderes majoritários.</p>
 
-Sendo assim, é necessário especificar do que estar querendo dizer sobre o fenômeno da judicialização, para responder se há ou não judicialização da política no Brasil. No presente estudo, pretende-se examinar o fenômeno da judicialização da política a partir das ações referentes à pandemia da Covid-19 julgadas pelo STF. Com efeito, o conceito de judicialização utilizado no trabalho seria a de que o STF teria um papel contramajoritário, o que legitimaria a sua interferência no desenho e na implementação da política pública acerca da covid-19.
+<p style="font-size:18pt">Além desta breve introdução, pretende-se, em seguida, apresentar a metodologia empregada na pesquisa, além de descrever os dados coletados e as hipóteses a serem testadas. Depois, realiza-se uma análise descritiva das variáveis contidas nos dados sobre as ações impetradas junto ao STF e relativas à Covid-19, bem como são realizados os testes acerca das hipóteses formuladas, em especial a de que o STF exerce sim um papel contramajoritário. Por fim, são tecidas algumas conclusões acerca da pesquisa realizada.
+</p>
 
-Nesse contexto, a pergunta que essa pesquisa procura endereçar seria: O STF assume um papel contramajoritário, ou seja, interfere na política pública traçada pelos poderes majoritários, ao decidir sobre ações referentes à Covid-19? A hipótese H0 seria a de que, tal como defendido por Mcguire (2006, p. 535), a nossa corte constitucional, diferentemente dos outros poderes da República, não seria capaz de desenvolver, monitorar e adaptar políticas públicas, confirmando a argumentação de Dahl de que elas têm dificuldades de se contrapor aos poderes majoritários.
+## **II - MÉTODO**
 
-Além desta breve introdução, pretende-se, em seguida, apresentar a metodologia empregada na pesquisa, além de descrever os dados coletados e as hipóteses a serem testadas. Depois, realiza-se uma análise descritiva das variáveis contidas nos dados sobre as ações impetradas junto ao STF e relativas à Covid-19, bem como são realizados os testes acerca das hipóteses formuladas, em especial a de que o STF exerce sim um papel contramajoritário. Por fim, são tecidas algumas conclusões acerca da pesquisa realizada.
+### **II.1 OS DADOS**
 
-## II - MÉTODO
+<p style="font-size:18pt">A pesquisa emprega uma metodologia quantitativa, utilizando como fonte de dados o sítio do STF ([link](https://transparencia.stf.jus.br/single/?appid=615fc495-804d-409f-9b08-fb436a455451&sheet=260e1cae-f9aa-44bb-bbc4-9d8b9f2244d5&opt=nointeraction&select=clearall)). Os dados são relativos às ações (decisões e despachos) direta e indiretamente envolvendo a Covid-19 submetidas à corte constitucional durante o exercício de 2020 (posição do dia 10/11/2020).</p>
 
-### II.1 OS DADOS
+<p style="font-size:18pt">O banco de dados do STF apresenta 10 (dez) variáveis nomeadas como: Processo, Classe, Número do Processo, Data Atuação, Relator, Data decisão, Decisão, Assunto, Link Processo e Em Tramitação. Para a consecução desta pesquisa, constrói-se um banco de dados simplificado também em .xls, no qual fazem parte as seguintes variáveis: <mark>Processo, Classe, Relator, Decisao (simplificada), Assunto (simplificado), Tempo_decisao (Data decisão - Data Atuação) e Comport_Min, referentes apenas às ações de controle direto de constitucionalidade (STF_Trabalho_final4).</mark></p>
 
-A pesquisa emprega uma metodologia quantitativa, utilizando como fonte de dados o sítio do STF ([link](https://transparencia.stf.jus.br/single/?appid=615fc495-804d-409f-9b08-fb436a455451&sheet=260e1cae-f9aa-44bb-bbc4-9d8b9f2244d5&opt=nointeraction&select=clearall)). Os dados são relativos às ações (decisões e despachos) direta e indiretamente envolvendo a Covid-19 submetidas à corte constitucional durante o exercício de 2020 (posição do dia 10/11/2020).
+<p style="font-size:18pt">Com efeito, classificamos todos os tipos de Decisao em apenas duas naturezas: Aprovada (Sucesso) pelo STF (representada pelo valor 1) e Rejeitada (Insucesso) pelo STF (representada pelo valor 0), ou seja, transformamos a variável categórica Decisao numa variável binária. A variável Tempo é numérica, medida em dias. A variável assunto foi simplificada, mantendo-se apenas o ramo do Direito envolvido e classificando o assunto QUESTÕES DE ALTA COMPLEXIDADE, GRANDE IMPACTO E REPERCUSSÃO | COVID-19 [ˆ1] como COVID-19. Por fim, construímos a variável Comport_Min que identifica uma manifestação contramajoritária ou não do STF, conforme será explicado a seguir.</p>
 
-O banco de dados do STF apresenta 10 (dez) variáveis nomeadas como: Processo, Classe, Número do Processo, Data Atuação, Relator, Data decisão, Decisão, Assunto, Link Processo e Em Tramitação. Para a consecução desta pesquisa, constrói-se um banco de dados simplificado também em .xls, no qual fazem parte as seguintes variáveis: Processo, Classe, Relator, Decisao (simplificada), Assunto (simplificado), Tempo_decisao (Data decisão - Data Atuação) e Comport_Min, referentes apenas às ações de controle direto de constitucionalidade (STF_Trabalho_final4).
-
-Com efeito, classificamos todos os tipos de Decisao em apenas duas naturezas: Aprovada (Sucesso) pelo STF (representada pelo valor 1) e Rejeitada (Insucesso) pelo STF (representada pelo valor 0), ou seja, transformamos a variável categórica Decisao numa variável binária. A variável Tempo é numérica, medida em dias. A variável assunto foi simplificada, mantendo-se apenas o ramo do Direito envolvido e classificando o assunto QUESTÕES DE ALTA COMPLEXIDADE, GRANDE IMPACTO E REPERCUSSÃO | COVID-19 [ˆ1] como COVID-19. Por fim, construímos a variável Comport_Min que identifica uma manifestação contramajoritária ou não do STF, conforme será explicado a seguir.
-
-Descreve-se as variáveis constantes do banco de dados simplificado a partir do carregamento deste e dos pacotes que serão empregados na pesquisa, aliado a fixação do diretório de trabalho.
+<p style="font-size:18pt">Descreve-se as variáveis constantes do banco de dados simplificado a partir do carregamento deste e dos pacotes que serão empregados na pesquisa, aliado a fixação do diretório de trabalho.</p>
 
 ```{r,message=FALSE,warning=FALSE,echo=TRUE}
 library(dplyr)
@@ -86,46 +87,46 @@ head(STF_trabalho_final,10)
 ```
 
 
-### II.2 IDENTIFICAÇÃO DE UMA DECISÃO CONTRAMAJORITÁRIA E MAJORITÁRIA
+### **II.2 IDENTIFICAÇÃO DE UMA DECISÃO CONTRAMAJORITÁRIA E MAJORITÁRIA**
 
-A identificação de uma decisão contramajoritária do STF não é tarefa simples. Entretanto, é pacífico que ela surge diretamente quando a corte constitucional examina as ações referentes ao controle direto de constitucionalidade, classificadas no banco de dados como Ação Direta de Inconstitucionalidade (ADI), Ação Direta de Inconstitucionalidade por Omissão (ADO) ou Arguição de Descumprimento de Preceito Fundamental (ADPF).
+<p style="font-size:18pt">A identificação de uma decisão contramajoritária do STF não é tarefa simples. Entretanto, é pacífico que ela surge diretamente quando a corte constitucional examina as ações referentes ao controle direto de constitucionalidade, classificadas no banco de dados como Ação Direta de Inconstitucionalidade (ADI), Ação Direta de Inconstitucionalidade por Omissão (ADO) ou Arguição de Descumprimento de Preceito Fundamental (ADPF).</p>
 
-Mas como identificar se uma decisão da corte constitucional é contramajoritária? Como não podemos de verificar diretamente, sugere-se construir uma variável latente como proxy a partir do comportamento do Ministro envolvido na decisão. Com efeito, empregamos, como paradigma, o comportamento de cada um dos ministros na votação da Ação Direta de Inconstitucionalidade sobre a possibilidade de nova eleição dos atuais presidentes das duas casas do Congresso em legislatura subsequente. Tendo em vista que o texto constitucional é cristalino no sentido de proibir tal prática, entende-se que os ministros que votaram a favor da possibilidade de reeleição seriam aqueles que decidem ou tendem a decidir de forma majoritária, ou seja, acompanhando o desejo e manifestação da Câmara e do Senado de que isso seria possível. De forma contrária, os ministros que votaram contra a vontade das duas casas majoritárias, manifestariam ou tendem a manifestar um posicionamento contramajoritário.
+<p style="font-size:18pt">Mas como identificar se uma decisão da corte constitucional é contramajoritária? Como não podemos de verificar diretamente, sugere-se construir uma variável latente como proxy a partir do comportamento do Ministro envolvido na decisão. Com efeito, empregamos, como paradigma, o comportamento de cada um dos ministros na votação da Ação Direta de Inconstitucionalidade sobre a possibilidade de nova eleição dos atuais presidentes das duas casas do Congresso em legislatura subsequente. Tendo em vista que o texto constitucional é cristalino no sentido de proibir tal prática, entende-se que os ministros que votaram a favor da possibilidade de reeleição seriam aqueles que decidem ou tendem a decidir de forma majoritária, ou seja, acompanhando o desejo e manifestação da Câmara e do Senado de que isso seria possível. De forma contrária, os ministros que votaram contra a vontade das duas casas majoritárias, manifestariam ou tendem a manifestar um posicionamento contramajoritário.</p>
 
-Embora seja questionável estender para outros tipos de ações os comportamentos dos ministros em um caso específico, este é um exemplo real e paradigmático da postura potencial dos ministros acerca da missão contramajoritária da corte constitucional. Assim, identifica-se, de um lado, os ministros mais reticentes a submeterem-se às manifestações majoritárias dos legítimos representantes da soberania popular (Câmara dos Deputados e Senado Federal): Ministros MARCO AURÉLIO, EDSON FACHIN, CARMEM LÚCIA, ROSA WEBER e LUIZ FUX –; e, de outro, aqueles que tendem a acompanhar as manifestações dos poderes políticos, em princípio, legitimados pela maioria popular: Ministros GILMAR MENDES, DIAS TOFFOLI, ALEXANDRE DE MORAES, RICARDO LEWANDOSWSKI e NUNES MARQUES.
+<p style="font-size:18pt">Embora seja questionável estender para outros tipos de ações os comportamentos dos ministros em um caso específico, este é um exemplo real e paradigmático da postura potencial dos ministros acerca da missão contramajoritária da corte constitucional. **Assim, identifica-se, de um lado, os ministros mais reticentes a submeterem-se às manifestações majoritárias dos legítimos representantes da soberania popular (Câmara dos Deputados e Senado Federal): Ministros MARCO AURÉLIO, EDSON FACHIN, CARMEM LÚCIA, ROSA WEBER e LUIZ FUX –; e, de outro, aqueles que tendem a acompanhar as manifestações dos poderes políticos, em princípio, legitimados pela maioria popular: Ministros GILMAR MENDES, DIAS TOFFOLI, ALEXANDRE DE MORAES, RICARDO LEWANDOSWSKI e NUNES MARQUES.**</p>
 
-### II.3 A VARIÁVEL LATENTE
+### **II.3 A VARIÁVEL LATENTE**
 
-Neste contexto, constrói-se a variável dummy Comport_Min, representativa de uma decisão majoritária ou contramajoritária do STF, da seguinte forma:
+<p style="font-size:18pt">Neste contexto, constrói-se a variável dummy Comport_Min, representativa de uma decisão majoritária ou contramajoritária do STF, da seguinte forma:</p>
 
-A dummy Comport_Min assume o valor 1, representando uma decisão contramajoritária, quando o relator da matéria referente à Covid-19 for um dos seguintes ministros: MARCO AURÉLIO, EDSON FACHIN, CARMEM LÚCIA, ROBERTO BARROSO, ROSA WEBER e LUIZ FUX, e 0 para os demais ministros;
+<p style="font-size:18pt"><mark>A dummy Comport_Min assume o valor 1, representando uma decisão contramajoritária, quando o relator da matéria referente à Covid-19 for um dos seguintes ministros: MARCO AURÉLIO, EDSON FACHIN, CARMEM LÚCIA, ROBERTO BARROSO, ROSA WEBER e LUIZ FUX;</mark></p>
 
-A dummy Comport_Min assume o valor 0, identificando-a como majoritária, quando o relator da matéria referente à Covid-19 for um dos seguintes ministros: GILMAR MENDES, DIAS TOFFOLI, ALEXANDRE DE MORAES, RICARDO LEWANDOSWSKI e NUNES MARQUES.
+<p style="font-size:18pt"><mark>A dummy Comport_Min assume o valor 0, identificando-a como majoritária, quando o relator da matéria referente à Covid-19 for um dos seguintes ministros: GILMAR MENDES, DIAS TOFFOLI, ALEXANDRE DE MORAES, RICARDO LEWANDOSWSKI e NUNES MARQUES.</mark></p>
 
-Assim e tendo em vista o entendimento de que as ações de controle direto de constitucionalidade são impetradas por representantes de forças contramajoritárias, pode-se considerar que o sucesso da Decisão do STF dependeria do comportamento contramajoritário do ministro do STF que emite o resultado da contenda. Neste sentido, o resultado (Decisao)) seria dependente do comportamento do ministro relator (Comport_Min).
+<p style="font-size:18pt">Assim e tendo em vista o entendimento de que as ações de controle direto de constitucionalidade são impetradas por representantes de forças contramajoritárias, pode-se considerar que o sucesso da Decisão do STF dependeria do comportamento contramajoritário do ministro do STF que emite o resultado da contenda. Neste sentido, o resultado (Decisao)) seria dependente do comportamento do ministro relator (Comport_Min).</p>
 
-Registra-se abaixo o comportamento dessa variável no banco de dados simplificado em relação a variável decisão.
+<p style="font-size:18pt">Registra-se abaixo o comportamento dessa variável no banco de dados simplificado em relação a variável decisão.</p>
 
 ```{r}
 STF_trabalho_final %>% xtabs(~STF_trabalho_final$Decisao + STF_trabalho_final$Comport_Min,data=.)
 ```
 
 
-### II.4 A MODELAGEM E A HIPÓTESE NULA
+### **II.4 A MODELAGEM E A HIPÓTESE NULA**
 
-Iremos responder a pergunta da pesquisa a partir da equação estabelecida abaixo:
+<p style="font-size:18pt">Iremos responder a pergunta da pesquisa a partir da equação estabelecida abaixo:</p>
 
 **![](C:\Users\Atowers\Pictures\Saved Pictures\Image 5.png)**
 
-A HIPÓTESE (H0) seria a de que os ministros do STF decidem as ações relativas à Covid-19 em sede das ações de controle direto de constitucionalidade em sintonia com os poderes majoritários. Ou seja, testa-se a hipótese de que os parâmetros b0 e b1 sejam iguais a zero a um nível de significância de 95%. Isso porque numa regressão com apenas uma variável categórica binária (comportamento do ministro do STF) a influência desta sobre a variável dependente (Decisão) é dada por b0 (comportamento majoritário do STF) e por b0+b1 (comportamento contramajoritário do STF).
+<p style="font-size:18pt"><mark>A HIPÓTESE (H0) seria a de que os ministros do STF decidem as ações relativas à Covid-19 em sede das ações de controle direto de constitucionalidade em sintonia com os poderes majoritários. Ou seja, testa-se a hipótese de que os parâmetros b0 e b1 sejam iguais a zero a um nível de significância de 95%. Isso porque numa regressão com apenas uma variável categórica binária (comportamento do ministro do STF) a influência desta sobre a variável dependente (Decisão) é dada por b0 (comportamento majoritário do STF) e por b0+b1 (comportamento contramajoritário do STF).</mark></p>
 
-Tendo em vista que a variável dependente (Decisão) é dicotômica, a regressão a ser empregada será a logística.
+<p style="font-size:18pt">Tendo em vista que a variável dependente (Decisão) é dicotômica, a regressão a ser empregada será a logística.</p>
 
-## III - ANÁLISES
+## **III - ANÁLISES**
 
-### III.1 – Descrição de alguns elementos importantes para o teste da Hipótese central deste trabalho
+### **III.1 – Descrição de alguns elementos importantes para o teste da Hipótese central deste trabalho**
 
-Em primeiro lugar, iremos descrever o universo das classes de ação de controle direto de constitucionalidade referente à Covid-19 e a participação dos ministros relatores nesse universo, em particular das ADIs. Importante destacar que no universo total de 234 decisões sobre ações de controle direto de constitucionalidade referentes à Covid-19 157 são ADIs (67%). Os Ministros que mais julgaram proporcionalmente as ADIs foram a Rosa Weber, Ricardo Lewandoswski e Marco Aurélio. 
+<p style="font-size:18pt">Em primeiro lugar, iremos descrever o universo das classes de ação de controle direto de constitucionalidade referente à Covid-19 e a participação dos ministros relatores nesse universo, em particular das ADIs. Importante destacar que no universo total de 234 decisões sobre ações de controle direto de constitucionalidade referentes à Covid-19 157 são ADIs (67%). Os Ministros que mais julgaram proporcionalmente as ADIs foram a Rosa Weber, Ricardo Lewandoswski e Marco Aurélio.</p> 
 
 ```{r,message=FALSE,warning=FALSE,echo=TRUE}
 STF_trabalho_final %>% xtabs(~STF_trabalho_final$Decisao + STF_trabalho_final$Classe,data=.)
@@ -139,7 +140,7 @@ STF_trabalho_final %>% filter(!is.na(Classe)) %>%
   arrange(desc(proporcao))
 ```
 
-Segundo, verifica-se no gráfico a seguir que os ministros que proporcionalmente mais proferiram decisões favoráveis (Sucesso) aos supostos grupos contramajoritários foram Rosa Weber, Roberto Barroso, Edson Fachin e Dias Toffoli, sendo os três primeiros, como visto anteriormente, membros do grupo contramajoritário.
+<p style="font-size:18pt">Segundo, verifica-se no gráfico a seguir que os ministros que proporcionalmente mais proferiram decisões favoráveis (Sucesso) aos supostos grupos contramajoritários foram Rosa Weber, Roberto Barroso, Edson Fachin e Dias Toffoli, sendo os três primeiros, como visto anteriormente, membros do grupo contramajoritário.</p>
 
 ```{r,message=FALSE,warning=FALSE,echo=TRUE}
 STF_trabalho_final %>%
@@ -150,7 +151,7 @@ STF_trabalho_final %>%
   arrange(desc(proporcao))
 ```
 
-Em terceiro lugar, nota-se pelo gráfico abaixo que as ADIs possuem o maior grau de sucesso junto ao STF, quando este julga questões relacionadas à Covid-19, embora as ADPs também tenham um grau semelhante de aprovação. Em resumo, as ações de controle direto de constitucionalidade questionando temas relativos à Covid-19 foram bem sucedidas no STF, alcançando um percentual de sucesso de aproximadamente 65% (152/234), o que indica alta sensibilidade da corte constitucional com a política pública  destinada ao combate da pandemia. 
+<p style="font-size:18pt">Em terceiro lugar, nota-se pelo gráfico abaixo que as ADIs possuem o maior grau de sucesso junto ao STF, quando este julga questões relacionadas à Covid-19, embora as ADPs também tenham um grau semelhante de aprovação. Em resumo, as ações de controle direto de constitucionalidade questionando temas relativos à Covid-19 foram bem sucedidas no STF, alcançando um percentual de sucesso de aproximadamente 65% (152/234), o que indica alta sensibilidade da corte constitucional com a política pública  destinada ao combate da pandemia.</p> 
 
 ```{r,message=FALSE,warning=FALSE,echo=TRUE}
 STF_trabalho_final %>%
@@ -163,7 +164,7 @@ STF_trabalho_final %>%
   ggplot(aes(reorder(Classe, - proporcao),proporcao)) + geom_bar(stat = "identity") + theme_bw(base_size = 10) + scale_fill_viridis_b() + xlab("Classe de Ação") +ylab("Grau de Sucesso") + ggtitle("Covid-19: Grau de sucesso (%) por classe das açoes junto ao STF")+geom_label(aes(label=round(proporcao,1)),color="black",fill="white",size=3)
 ```
 
-Por fim, o gráfico a seguir descreve que ministros do Supremo com comportamento contramajoritário proferiram decisões favoráveis num percentual superior aos que têm comportamento classificado como majoritário, sugerindo eventual comportamento contramajoritário da corte constitucional. 
+<p style="font-size:18pt">Por fim, o gráfico a seguir descreve que ministros do Supremo com comportamento contramajoritário proferiram decisões favoráveis num percentual superior aos que têm comportamento classificado como majoritário, sugerindo eventual comportamento contramajoritário da corte constitucional.</p> 
 
 ```{r,message=FALSE,warning=FALSE,echo=TRUE}
 
@@ -178,22 +179,26 @@ STF_trabalho_final %>%
 ```
 
 
-### III. 2 Visualização das variáveis envolvidas na modelagem escolhida
+### **III. 2 Visualização das variáveis envolvidas na modelagem escolhida**
 
-O gráfico abaixo apresenta a relação entre as duas váriaveis constantes do modelo a ser testado.Nota-se que o comportamento contramajoritário dos ministros (Comport_Min =1) é o mais frequente e vinculado ao sucesso nas decisões por eles proferidas (Decisao=1). Entretanto, os dados não se ajustam bem a curva sigmóide do modelo logit (logístico)
+<p style="font-size:18pt">O gráfico abaixo apresenta a relação entre as duas váriaveis constantes do modelo a ser testado.Nota-se que o comportamento contramajoritário dos ministros (Comport_Min =1) é o mais frequente e vinculado ao sucesso nas decisões por eles proferidas (Decisao=1). Entretanto, os dados não se ajustam bem a curva sigmóide do modelo logit (logístico), embora haja uma coincidência importante (n maior ou igual a 80) entre a decisão favorável do STF (Decisao=1) e o comportamento contramajoritário do STF (Comport_Min=1).</p>
 
 ```{r,message=FALSE,warning=FALSE,echo=TRUE}
 STF_trabalho_final %>% ggplot(aes(x=Comport_Min,y=Decisao)) + geom_count(color="red") + geom_smooth(method=glm,methods.args=list(family=binomial))
 ```
 
-### III.3 Rodando o Modelo com a Regressão Logística
+### **III.3 Rodando o Modelo com a Regressão Logística: Testando a hipótese nula**
 
 ```{r,message=FALSE,warning=FALSE,echo=TRUE}
 (y <- STF_trabalho_final %>% glm(Decisao~Comport_Min, family = binomial(link="logit"),data = .) %>% summary())
 ```
 
-### III.4 Ajuste do modelo (Anova,pseudos R2 e teste de Hoslem) 
+<p style="font-size:18pt">A primeira observação sobre o modelo é o de que os *deviance results* não apresentam uma simetria esperada em torno da média próxima de zero, apontando para um ajuste pobre da modelagem com o logit. Mais importante, o coeficiente da variável Comport_M (b1) não obteve significância (z-valor<0.05) a um nível de 95% de confiança. Contudo o parâmetro b0 (intercept) apresentou-se significativo a um nível de 95% de confiança. <p style="font-size:18pt;color:red"> Em função disso, não se pode rejeitar estatística e totalmente a hipótese nula (b0 e b1 iguais a zero) de que as decisões do STF sobre a Covid-19 são proferidas com algum grau de correlação com o comportamento majoritário de seus membros. De outra forma, não se pode assumir a hipótese alternativa de que essas decisões são proferidas pela corte constitucional em função de sua missão contramajoritária, isto é, que o comportamento dos ministros (relatores) possa explicar as decisões do STF.</p> 
 
+
+### **III.4 Ajuste do modelo (Anova,pseudos R2 e teste de Hosmer-Lemeshow)** 
+
+<p style="font-size:18pt">Os testes realizados mostram, de um lado, que o modelo empregado seria pior do que aquele que utiliza somente o intercepto (b0): modelo nulo, haja vista que o qui-quadrado fornecido pela anova foi maior do que 0.05. Da mesma forma, os testes sobre a capacidade preditiva do modelo (pseudos R2, calculados por por Cox e Snell, Nagelkerke e McFadden) mostram que o modelo apresenta robustez muito baixa (valores bem menores do que 0.2, considerado bons pela literatura, pelo menos para o McFadden). Quanto ao teste de Hosmer e Lemeshow, utilizado para demonstrar a qualidade do ajuste do modelo, ou seja, se o modelo pode explicar os dados observados, dividindo os dados de acordo com as probabilidades previstas em 10 grupos iguais e comparando-se os números previstos e os reais por meio da estatística do qui-quadrado, verifica-se que o p-valor do qui-quadrado foi superior a 0.05, o que significa que as proporções observadas e esperadas são as mesmas ao longo da amostra. Ou seja, o modelo adequa-se razoavelmente à realidade.</p>
 ```{r,message=FALSE,warning=FALSE,echo=TRUE}
 y <- STF_trabalho_final %>% glm(Decisao~Comport_Min, family = binomial(link="logit"),data = .)
 anova(y,test="Chisq")
@@ -203,32 +208,36 @@ ResourceSelection::hoslem.test(STF_trabalho_final$Decisao, fitted(z))
 
 ```
 
-### III.5 Oddsratio e Intervalo de Confiança
+### **III.5 Odds Ratio (OR) e Intervalo de Confiança**
 
+<p style="font-size:18pt">O modelo de regressão logística adotado traz os resultados dos estimadores (bo e b1) na forma logarítma, ou seja, o log das chances da variável Comport_Min (b1) e Intercept (bo) são 0.2939 e 0.4418, respectivamente. Para uma interpretação mais compreensível da relação da decisão do STF com o comportamento dos ministros da corte é necessária a transformação desses parâmetros, ou seja, que seja efetuada a exponenciação da(s) variavel(eis) da regressão. Assim, obtém-se a razão das chances (OR - Odds Ratio em inglês) para as variáveis independentes. <mark>No caso em exame, o resultado da razão de chances da variável Comport_Min foi de 1.341615, o que pode assim ser interpretado: as chances de ocorrer uma decisão favorável do STF, quando houver um comportamento contramajoritário de um ministro da corte, aumenta em 1,34 vezes em comparação a existência de um comportamento majoritário por um ministro do STF. Isto é, as chances da ocorrência de uma decisão favorável em ações referentes à Covid-19 no STF aumenta em 34% se o relator da causa for os ministros MARCO AURÉLIO, EDSON FACHIN, CARMEM LÚCIA, ROBERTO BARROSO, ROSA WEBER ou LUIZ FUX, quando comparadas com as dos demais ministros. Entretanto, como visto anteriormente, não se pode rejeitar de todo a hipótese nula, haja vista que o z-valor do b1 não foi significante a um nível de confiança de 95%.</mark></p>  
 ```{r,message=FALSE,warning=FALSE,echo=TRUE}
 # Razão de chance (Oddsratio)
 
 coef(z) %>% exp() 
 
-#Intervalo de Cionfiança
-
+#Intervalo de Confiança
+sjPlot::plot_model(z)
 exp(cbind(OR=coef(z), confint(z)))
 
 ```
 
 
 
-### III.6 Visualização de quão ajustado é o modelo, Matriz de Confusão e Curva ROC
+### **III.6 Visualização de quão ajustado é o modelo, Matriz de Confusão e Curva ROC**
 
+<p style="font-size:18pt">O gráfico abaixo compara a predição do modelo idealizado com a realidade dos dados. Infere-se que o modelo acerta apenas quando o Comport_Min (comportamento dos ministros) é contramajoritário e a decisão é favorável ou quando o comportamento dos ministros é majoritário e a decisão é positiva para os autores.Ou seja, das quatro possibilidades de interação entre as duas variáveis, o modelo é capaz de prever somente duas delas.</p>  
 ```{r,message=FALSE,warning=FALSE,echo=TRUE}
-STF_trabalho_final %>% mutate(Decisao_predita=predict(z,type="response")) %>% mutate(Decisao_predita=if_else(Decisao_predita>.5,1,0)) %>% ggplot()+geom_point(aes(x=Comport_Min,y=Decisao,color="Realidade"),size=12) + geom_point(aes(x=Comport_Min,y=Decisao_predita,color="Modelo"),size=6) +guides(color=guide_legend("Comparação")) + facet_wrap(~Decisao_predita)
+STF_trabalho_final %>% mutate(Decisao_predita=predict(z,type="response")) %>% mutate(Decisao_predita=if_else(Decisao_predita>.5,1,0)) %>% ggplot()+geom_point(aes(x=Comport_Min,y=Decisao,color="Realidade"),size=12) + geom_point(aes(x=Comport_Min,y=Decisao_predita,color="Modelo"),size=6) +guides(color=guide_legend("Comparação")) 
 
 
 ```
 
 
-#### Matriz de Confusão
+#### **Matriz de Confusão**
 
+<p style="font-size:18pt">Uma maneira prática de qualificar o ajuste do modelo de regressão logística é pela projeção do modelo na tabela de classificação ou Matriz de Confusão. Com efeito, a matriz analisa o poder preditivo do modelo por meio do estabelecimento de um ponto de corte c (classification
+cutoff), em que valores acima dele indicam a presença do evento de interesse (decisão favorável) e abaixo sua ausência. Por meio da matriz, pode-se verificar a sensibilidade, especificidade e acerto global do modelo. No caso em exame, eoncontrou-se os seguintes resultados fornecidos pela matriz: (1) sensibilidade: sucesso relativo nas decisões do STF sobre a Covid-19 (152/234) igual a 65%; (2) especificidade: insucesso relativo nas decisões do STF sobre a Covid-19 igual a 0%; e (3) acerto global do modelo ([0+152]/234) igual a 65%.</p>  
 ```{r,message=FALSE,warning=FALSE,echo=TRUE}
 z <- glm(Decisao~Comport_Min, family = binomial(link="logit"),data =STF_trabalho_final)
 k <- as.factor(
@@ -242,8 +251,9 @@ confusionMatrix(k,w,positive="1")
 ```
 
 
-#### Curvas ROC
+#### **Curvas ROC**
 
+<p style="font-size:18pt">Se, para cada ponto de corte c (classification cutoff), fosse calculada a sensitividade e especificidade, seria possível construir um gráfico de Curva ROC (Receiver Operating Characteristic). Esse gráfico informa que quanto maior a área abaixo da Curva ROC, maior é a capacidade do modelo em discriminar os grupos de evento de interesse (decisão favorável nas ações sobre a Covid-19 junto ao STF) e não interesse (decisão contrária). A área sobre a Curva ROC (AUC - Area Under the ROC Curve) compara os classificadores a partir da parformance da curva em um único valor escalar (Fawcett 2006). Este indicador representa a probabilidade de que o classificador efetue predições randômicas na instância positiva melhor do que na instância negativa. O indicador AUC sempre terá seu valor entre 0 e 1, sendo que quanto maior, melhor e nunca um classificador realístico deve estar abaixo de 0,5. Hosmer e Lemeschow (2000) sugere a utilização de AUC acima de 0,7 como aceitável. No nosso caso, o AUC foi de 0,54, logo pouca coisa superior ao realístico e longe do aceitável.</p> 
 ```{r,message=FALSE,warning=FALSE,echo=TRUE}
 z <- glm(Decisao~Comport_Min, family = binomial(link="logit"),data =STF_trabalho_final)
 roc1=plot.roc(STF_trabalho_final$Decisao,fitted(z))
@@ -253,7 +263,7 @@ plot(roc1,
      grud=c(0.1,0.2),
      grid.col=c("green","red"), 
      max.auc.polygon=TRUE, 
-     auc.polygon.col="blue", 
+     auc.polygon.col="orange", 
      print.thres=TRUE)
 k$predy <- predict(z,type="response")
 PRROC_obj <- roc.curve(scores.class0 = k$predy, weights.class0=STF_trabalho_final$Decisao,curve=TRUE)
@@ -261,3 +271,10 @@ plot(PRROC_obj)
 
 ```
 
+### **IV - Conclusões**
+
+<p style="font-size:18pt">O modelo utilizado para testar a hipótese do trabalho de que o STF decide com base no seu papel contramajoritário e, assim, interfere nas políticas públicas formuladas pelas maiorias políticas, no caso examinando-se as decisões do STF sobre a Covid-19, não foi estatisticamente bem sucedido. Isso pode querer dizer que outras variáveis, além da missão contramajoritária da corte constitucional, influencia nas suas decisões. O trabalho também sofre em função da delimitação do escopo, limitando-se a examinar apenas as decisões sobre a Covid-19, além de empregar uma *proxis* bastante específica para identificar o carater contramajoritária no comportamento dos ministros do STF.<p/>
+
+<p style="font-size:18pt"><mark>De toda sorte, verificou-se que a resposta a pergunta da pesquisa pode ser respondida ao menos parcialmente, haja vista que a hipótese nula de que as decisões do STF, no âmbito das decisões sobre a pandemia da Covid-19, são proferidas com base ou em respeito às forças políticas majoritárias não foi completamente confirmada ao nível de 95% de confiança. Com efeito, apenas o parâmetro b1 não passou no teste de significância (o estimador b0 teve nível de significância menor que 0.05), sendo os efeitos da variável *dummy* comportamento dos ministros do Supremo (Comport_M) sobre as decisções do STF, na sua vertente contramajoritária, compostos pelos dois estimadores (b0 + b1).</mark><p/>
+
+<p style="font-size:18pt"><mark>Em função disso, pode-se afirmar, com as devidas ressalvas, que as chances de uma decisão favorável quando os ministros têm um comportamento contramajoritário (MARCO AURÉLIO, EDSON FACHIN, CARMEM LÚCIA, ROBERTO BARROSO, ROSA WEBER ou LUIZ FUX) aumentam em 34%, comparando-se a um comportamento majoritário de seus membros (representados por GILMAR MENDES, DIAS TOFFOLI, ALEXANDRE DE MORAES, RICARDO LEWANDOSWSKI e NUNES MARQUES). Por outro lado, o ajuste do modelo é pouco robusto, pois sua capacidade preditiva dada pelo pseudos R2 é diminuta, o AUC (0,54) é inferior ao aceitável (0,70) e a especificidade é inexistente. De qualquer maneira, o modelo tem um acerto geral de 65% e passou no teste de Hosmer e Lemeshow sobre sua adequação à realidade dos dados.</mark><p/>    
