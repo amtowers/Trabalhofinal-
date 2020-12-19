@@ -1,7 +1,7 @@
 ---
-title: "**O Supremo exerce o seu papel contramajoritário nas ações sobre a Covid-19?**"
+title: "index"
 author: "Adelmar de Miranda Torres - 19/0072334"
-date: "18/12/2020"
+date: "19/12/2020"
 output: ioslides_presentation
 ---
 
@@ -242,5 +242,6 @@ plot(PRROC_obj)
 - Pode-se afirmar, com as devidas ressalvas, que as chances de uma decisão favorável quando os ministros têm um comportamento contramajoritário (MARCO AURÉLIO, EDSON FACHIN, CARMEM LÚCIA, ROBERTO BARROSO, ROSA WEBER ou LUIZ FUX) aumentam em 34%, comparando-se a um comportamento majoritário de seus membros (representados por GILMAR MENDES, DIAS TOFFOLI, ALEXANDRE DE MORAES, RICARDO LEWANDOSWSKI e NUNES MARQUES).
 
 - Por outro lado, o ajuste do modelo é pouco robusto, pois sua capacidade preditiva dada pelo pseudos R2 é diminuta, o AUC (0,54) é inferior ao aceitável (0,70) e a especificidade é inexistente. De qualquer maneira, o modelo tem um acerto geral de 65% e passou no teste de Hosmer e Lemeshow sobre sua adequação à realidade dos dados
+
 
 
